@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hiruc0000&layout=compact&theme=dracula)
 
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=hiruc0000&theme=dracula)
